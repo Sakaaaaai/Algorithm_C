@@ -1,15 +1,3 @@
-/*
-input
-5
-H4 C9 S4 D2 C3
-
-output
-D2 C3 H4 S4 C9
-Stable
-D2 C3 S4 H4 C9
-Not stable
-*/
-
 #include <stdio.h>
 
 

@@ -1,23 +1,3 @@
-/*
-input
-5
-5
-1
-4
-3
-2
-
-output
-2
-4 1
-3
-1
-2
-3
-4
-5
-*/
-
 #include <stdio.h>
 
 #define MAX_N 1000000

@@ -1,13 +1,3 @@
-/*
-input
-6
-5 6 4 2 1 3
-
-output
-1 2 3 4 5 6
-4
-*/
-
 #include<stdio.h>
 
 int main()
