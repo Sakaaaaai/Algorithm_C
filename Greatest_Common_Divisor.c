@@ -1,11 +1,3 @@
-/*
-input
-147 105
-
-output
-21
-*/
-
 #include <stdio.h>
 
 int gcb(int, int);

@@ -1,17 +1,3 @@
-/*
-input
-6
-2
-3
-4
-5
-6
-7
-
-output
-4
-*/
-
 #include <stdio.h>
 #include <math.h>
 
