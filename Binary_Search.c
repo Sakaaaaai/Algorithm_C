@@ -1,13 +1,3 @@
-/*
-input
-5
-1 2 3 4 5
-3
-3 4 1
-output
-3
-*/
-
 #include <stdio.h>
 
 #define N 100000

@@ -1,19 +1,3 @@
-/*
-input
-6
-insert AAA
-insert AAC
-find AAA
-find CCC
-insert CCC
-find CCC
-
-output
-yes
-no
-yes
-*/
-
 #include<stdio.h>
 #include<string.h>
 

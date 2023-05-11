@@ -1,17 +1,3 @@
-/*
-input
-5 3
-8
-1
-7
-3
-9
-
-output
-10
-*/
-
-
 #include<stdio.h>
 #define MAX 100000
 
