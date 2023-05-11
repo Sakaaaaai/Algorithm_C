@@ -1,12 +1,3 @@
-/*
-input
-\///\_/\/\\/_/\///__\\_\/_\/_/\
-
-output
-35
-5 4 2 1 19 9
-*/
-
 #include <stdio.h>
 #include <string.h>
 

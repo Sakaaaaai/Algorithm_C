@@ -1,11 +1,3 @@
-/*
-input
-1 2 + 3 4 - *
-
-output
--3
-*/
-
 #include<stdio.h>
 #include<stdlib.h>
 
