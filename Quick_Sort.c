@@ -1,24 +1,3 @@
-/*
-input
-6
-D 3
-H 2
-D 1
-S 3
-D 2
-C 1
-
-output
-Not stable
-D 1
-C 1
-D 2
-H 2
-D 3
-S 3
-*/
-
-
 #include<stdio.h>
 
 #define N 100000

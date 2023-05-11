@@ -1,12 +1,3 @@
-/*
-input
-4
-4 3 2 1
-
-output
-10
-*/
-
 #include <stdio.h>
 
 int pertition(int a[],int left,int right){

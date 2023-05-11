@@ -1,12 +1,3 @@
-/*
-input
-7
-2 5 1 3 2 3 0
-
-output
-0 1 2 2 3 3 5
-*/
-
 #include<stdio.h>
 #include<stdlib.h>
 
