@@ -1,18 +1,3 @@
-/*
-input
-5
-1 5 7 10 21
-4
-2 4 17 8
-
-output
-no
-no
-yes
-yes
-*/
-
-
 #include<stdio.h>
 
 #define N 200

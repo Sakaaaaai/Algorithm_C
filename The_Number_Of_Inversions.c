@@ -1,12 +1,3 @@
-/*
-input
-5
-3 5 2 1 4
-
-output
-6
-*/
-
 #include <stdio.h>
 #include <limits.h>
 
