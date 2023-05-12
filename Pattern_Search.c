@@ -1,21 +1,3 @@
-/*
-input
-4 5
-00010
-00101
-00010
-00100
-3 2
-10
-01
-10
-
-output
-0 3
-1 2
-*/
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

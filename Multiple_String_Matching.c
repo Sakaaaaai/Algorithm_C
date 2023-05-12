@@ -1,19 +1,3 @@
-/*
-input
-aabaaa
-4
-aa
-ba
-bb
-xyz
-
-output
-1
-1
-0
-0
-*/
-
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>

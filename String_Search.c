@@ -1,12 +1,3 @@
-/*
-input
-xyzz
-yz
-
-output
-1
-*/
-
 #include <stdio.h>
 #include <string.h>
 #define TMAX 1000001
