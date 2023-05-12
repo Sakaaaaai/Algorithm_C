@@ -1,20 +1,3 @@
-/*
-input
-3
-abcbdab
-bdcaba
-abc
-abc
-abc
-bc
-
-output
-4
-3
-2
-*/
-
-
 #include <stdio.h>
 #include <string.h>
 

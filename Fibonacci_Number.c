@@ -1,12 +1,3 @@
-/*
-input
-3
-
-output
-3
-*/
-
-
 #include<stdio.h>
 
 #define N 45
