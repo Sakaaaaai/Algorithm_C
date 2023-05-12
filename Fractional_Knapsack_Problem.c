@@ -1,15 +1,3 @@
-/*
-input
-3 50
-60 13
-100 23
-120 33
-
-output
-210.90909091
-*/
-
-
 #include<stdio.h>
 #include <stdlib.h>
 #include <math.h>

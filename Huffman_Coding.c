@@ -1,12 +1,3 @@
-/*
-input
-aaabbcccdeeeffg
-
-output
-41
-*/
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

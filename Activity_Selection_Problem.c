@@ -1,15 +1,3 @@
-/*
-input
-5
-1 2
-3 9
-3 5
-5 9
-6 8
-output
-3
-*/
-
 #include<stdio.h>
 
 struct data{

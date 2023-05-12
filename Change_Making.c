@@ -1,11 +1,3 @@
-/*
-input
-54321
-
-output
-2175
-*/
-
 #include <stdio.h>
 
 
