@@ -1,18 +1,3 @@
-/*
-input
-4
-1 2 2 4
-2 1 4
-3 0
-4 1 3
-
-output
-0 1 0 1
-0 0 0 1
-0 0 0 0
-0 0 1 0
-*/
-
 #include<stdio.h>
 
 #define N 101

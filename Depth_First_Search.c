@@ -1,19 +1,3 @@
-/*
-input
-4
-1 1 2
-2 1 4
-3 0
-4 1 3
-
-output
-1 1 8
-2 2 7
-3 4 5
-4 3 6
-*/
-
-
 #include <stdio.h>
 
 #define WHITE 10
