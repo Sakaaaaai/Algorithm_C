@@ -1,13 +1,3 @@
-/*
-input
-5
-1 2 3 4 5
-3 2 4 1 5
-
-output
-3 4 2 5 1
-*/
-
 #include <stdio.h>
 
 #define MAX 40
