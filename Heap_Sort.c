@@ -1,12 +1,3 @@
-/*
-input
-8
-1 2 3 5 9 12 15 23
-
-output
-23 9 15 2 5 3 12 1
-*/
-
 #include<stdio.h>
 #define H 200001
 int heap[H];
